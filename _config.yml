@@ -7,24 +7,24 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: shamo
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: 认真的嗨皮
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
+  name: shamo
+  email: 1350697226@qq.com
+  github: shamo618
   twitter: dbtek
   pinterest: asd123
   linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  bio: 活的认真, 玩的嗨皮!
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
